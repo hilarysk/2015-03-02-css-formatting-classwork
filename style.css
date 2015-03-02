@@ -1,0 +1,169 @@
+* {
+  margin: 0 auto;
+}
+
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.mainbackground {
+  background-color: #1C1C1C;
+  width: 400px;
+  margin: 0px;
+/*  padding-top: -10px;*/
+  padding: 10px 20px;
+}
+
+div.headermenu{
+  margin-top: -10px;
+}
+
+img.logo {
+  width: 60%;
+  max-width: 250px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  align: center;
+}
+
+img.navbar {
+  padding-right: 20px;
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  border-right: 1px dotted;
+  border-color: #2E2E2E;
+}
+
+img.personicon {
+  padding-right: 10px;
+  padding-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  border-left: 1px dotted;
+  border-color: #2E2E2E;
+}
+
+img.twiceaslocal {
+  width: 225%;
+  position: static;
+  margin-top: -8px;
+  margin-left: -250px; 
+}
+
+.twiceaslocaltext {
+  color: #FFFFFF;
+  position: absolute;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  left: 0px;
+  right: 0px;
+  font-family: Courier;
+  font-size: 200%;
+}
+
+.bankinganywheretext {
+  color: #FFFFFF;
+  position: absolute;
+  text-align: center;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  font-family: Courier;
+  font-size: 200%;
+  left: 0px;
+  right: 0px;
+}
+
+.banklocalbox {
+  padding: 15px 10px 10px 10px;
+  width: 300px;
+  height: 20px;
+  margin-left: 30px;
+  margin-top: 380px;
+  border-radius: 5px;
+  background: #000000;
+  color: #FFFFFF;
+  text-align: center;
+  letter-spacing: 2px;
+  position: absolute;
+}
+
+.soooo {
+  transform: rotate(-20deg);
+  margin-top: 10px;
+}
+
+.soooo hr {
+  width: 120px;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+div.mobileimage {}
+
+img.mobile {
+  border-radius: 10px;
+  width: 80%;
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.switch {
+  border-radius: 10px;
+  width: 80%;
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.smallertext {
+  font-size: 75%;
+}
+
+.fdictext {
+  margin-top: 30px;
+  margin-left: 25px;
+  display: block;
+}
+
+
+.socialbuttons {
+  margin-left: 300px;
+
+}
+
+.corebank {
+  font-size: 80%;
+  margin-left: -5px;
+}
+
+ul.footerlist {
+  float: right;
+  list-style-type: none;
+  width: 325px;
+  font-size: 80%;
+  margin-right: 43px;
+}
+
+.footerlist li {
+  display: inline;
+  padding: 5px;
+}
+
+
+
+
+
+
